@@ -29,7 +29,7 @@ library: Leaflet and D3
 
 
 ## Summary
-This project is summarized as follows, using JavaScript's Leaflet library along with the Mapbox API to create visualizations of earthquake data from the U.S. Geographical Survey:
+Using JavaScript's Leaflet library along with the Mapbox API to create visualizations of earthquake data from the U.S. Geographical Survey, this project is summarized as follows:
 
 1- Add tectonic plate data to the map 
  - Using d3.json() 
