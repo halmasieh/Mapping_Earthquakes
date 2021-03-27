@@ -4,7 +4,7 @@
 Creating interactive maps that are easy to use is a necessary skill for someone in the data visualization field. 
 Maps allows to explore, understand and make decisions about our work. In mapping earthquakes, we build our JavaScript skills and D3 library
 to 
- - Create an interactive world map
+ - Create an interactive world map.
  - Use GeoJSON to host geographic information.
 
  GeoJASON data can be found in many apps such as Ride Sharing, Navigation and food delivery services, even the apps on our smart phone that allow
