@@ -15,7 +15,7 @@ to
  Using the knowledge of JavaScript and D3 library, we will traverse and retrieve GeoJSON earthquakes data and tectonic plate data 
  in order to populate a geographical map. For this, we also use a Leaflet library and the Mapbox API. 
 
-Therefore,  We use the Leaflet.js Application Programming Interface (API) to do the following steps: 
+Therefore,  we use the Leaflet.js Application Programming Interface (API) to do the following steps: 
    - Populate a geographical map with GeoJSON earthquake data from a URL
    - Each earthquake will be visually represented by a circle and color, where a higher magnitude will have a larger diameter. 
    - each earthquake will have a popup marker that, when clicked, will show the magnitude of the earthquake and the location of the earthquake.
