@@ -19,7 +19,7 @@ Therefore,  we use the Leaflet.js Application Programming Interface (API) to do 
    - Populate a geographical map with GeoJSON earthquake data from a URL
    - Display tectonic plate data with the LineStrings type.
    - Each earthquake and major earthquake  will be visually represented by a circle and color, where a higher magnitude will have a larger diameter. 
-   - each earthquake an dmajor earthquake will have a popup marker that, when clicked, will show the magnitude of the earthquake and the location of the earthquake.
+   - Each earthquake and major earthquake will have a popup marker that, when clicked, will show the magnitude of the earthquake and the location of the earthquake.
 
 
 ## Resources
