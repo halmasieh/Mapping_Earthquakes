@@ -1,7 +1,5 @@
 ## Mapping_Earthquakes
 
-## 
-
 ## Project Overview
 Creating interactive maps that are easy to use is a necessary skill for someone in the data visualization field. 
 Maps allows to explore, understand and make decisions about our work. In mapping earthquakes, we build our JavaScript skills and D3 library
