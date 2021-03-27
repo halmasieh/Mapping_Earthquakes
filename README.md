@@ -32,14 +32,14 @@ library: Leaflet and D3
 Using JavaScript's Leaflet library along with the Mapbox API to create visualizations of earthquake data from the U.S. Geographical Survey, this project is summarized as follows:
 
 1- Add tectonic plate data to the map 
- - Using d3.json() 
- - Adding the data using the geoJSON() layer 
- - Seting the tectonic plate LineString data to stand out on the map 
- - Adding the tectonic plate data to the overlay object with the earthquake data.
+ - Use d3.json() 
+ - Add the data using the geoJSON() layer 
+ - Set the tectonic plate LineString data to stand out on the map 
+ - Add the tectonic plate data to the overlay object with the earthquake data.
 
 2- Add major earthquakes data
- - Using d3.json()
- - Using a color and set the radius of the circle based on the magnitude of earthquake
- - Adding a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON()
+ - Use d3.json()
+ - Use a color and set the radius of the circle based on the magnitude of earthquake
+ - Add a popup marker for each earthquake that displays the magnitude and location of the earthquake using the GeoJSON layer, geoJSON()
 
  3-  Add a third map style as a tile layer object to the main logic.js file and add the map variable to the base layer object.   
