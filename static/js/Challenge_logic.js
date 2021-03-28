@@ -150,10 +150,10 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geoj
       return "red";
       break;
     case (magnitude > 4 && magnitude <= 5 ):
-      return "pink";
+      return "orange";
       break;
     case (magnitude < 4):
-      return "blue";
+      return "pink";
       break;
     default:
       return "black";
